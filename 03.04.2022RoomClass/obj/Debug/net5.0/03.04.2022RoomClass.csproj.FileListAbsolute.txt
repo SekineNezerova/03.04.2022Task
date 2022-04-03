@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\03.04.2022RoomClass\03.04.2022RoomClass\bin\Debug\net5.0\03.04.2022RoomClass.exe
+C:\Users\User\source\repos\03.04.2022RoomClass\03.04.2022RoomClass\bin\Debug\net5.0\03.04.2022RoomClass.deps.json
+C:\Users\User\source\repos\03.04.2022RoomClass\03.04.2022RoomClass\bin\Debug\net5.0\03.04.2022RoomClass.runtimeconfig.json
+C:\Users\User\source\repos\03.04.2022RoomClass\03.04.2022RoomClass\bin\Debug\net5.0\03.04.2022RoomClass.runtimeconfig.dev.json
+C:\Users\User\source\repos\03.04.2022RoomClass\03.04.2022RoomClass\bin\Debug\net5.0\03.04.2022RoomClass.dll
+C:\Users\User\source\repos\03.04.2022RoomClass\03.04.2022RoomClass\bin\Debug\net5.0\ref\03.04.2022RoomClass.dll
+C:\Users\User\source\repos\03.04.2022RoomClass\03.04.2022RoomClass\bin\Debug\net5.0\03.04.2022RoomClass.pdb
+C:\Users\User\source\repos\03.04.2022RoomClass\03.04.2022RoomClass\obj\Debug\net5.0\03.04.2022RoomClass.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\03.04.2022RoomClass\03.04.2022RoomClass\obj\Debug\net5.0\03.04.2022RoomClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\03.04.2022RoomClass\03.04.2022RoomClass\obj\Debug\net5.0\03.04.2022RoomClass.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\03.04.2022RoomClass\03.04.2022RoomClass\obj\Debug\net5.0\03.04.2022RoomClass.AssemblyInfo.cs
+C:\Users\User\source\repos\03.04.2022RoomClass\03.04.2022RoomClass\obj\Debug\net5.0\03.04.2022RoomClass.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\03.04.2022RoomClass\03.04.2022RoomClass\obj\Debug\net5.0\03.04.2022RoomClass.dll
+C:\Users\User\source\repos\03.04.2022RoomClass\03.04.2022RoomClass\obj\Debug\net5.0\ref\03.04.2022RoomClass.dll
+C:\Users\User\source\repos\03.04.2022RoomClass\03.04.2022RoomClass\obj\Debug\net5.0\03.04.2022RoomClass.pdb
+C:\Users\User\source\repos\03.04.2022RoomClass\03.04.2022RoomClass\obj\Debug\net5.0\03.04.2022RoomClass.genruntimeconfig.cache
