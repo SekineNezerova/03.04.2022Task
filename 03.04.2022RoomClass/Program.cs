@@ -12,7 +12,7 @@ namespace _03._04._2022RoomClass
             Room room1 = new Room("r101", 50, 2);
             Room room2 = new Room("r102", 120, 6);
             Room room3 = new Room("r103", 50, 2);
-
+          
             Hotel hotel = new Hotel(4);
 
             hotel[0]=room;

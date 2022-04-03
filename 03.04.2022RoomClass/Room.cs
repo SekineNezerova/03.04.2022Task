@@ -10,7 +10,7 @@ namespace _03._04._2022RoomClass
     {
        
 
-        protected int Id {  get ; set; }
+        private int Id { get { return Id; } set { } }
         public string Name { get; set; }
         public int Price { get; set; }
         public int PersonCapacity { get; set; }
